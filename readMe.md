@@ -1,4 +1,4 @@
-# Assignment 3 - CSCB09 
+# System Resource Monitoring Tool
 
 ## 1. Metadata
 Title: System Monitoring Tool -- Concurrency & Signals
